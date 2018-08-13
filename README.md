@@ -20,7 +20,7 @@ Please, create a branch for each part.
 
 ### Part 1: Purest Way
 
-In this first step, you need to create an app **WITHOUT any library**, with pure Android.
+In this first step, you need to create an app **WITHOUT any library**, with pure iOS.
 
 **CRUD**
 - Rest API consume and persistence with local database.
