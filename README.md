@@ -27,7 +27,6 @@ In this first step, you need to create an app **WITHOUT any library**, with pure
 
 **Tests**
 - Local Unit Test and Remote Unit Test ( Instrumental / UI ).
-  Obs: Espresso lib is allowed in this case.
 
 ----
 
@@ -43,15 +42,16 @@ In this first step, you need to create an app **WITHOUT any library**, with pure
 
 ###  Part 3: Advanced ( EXTRA )
 
-**Android Jetpack**
+**iOS 10**
 - Foundation
 - Architecture *
 - Behavior
 - UI
-Obs: Use at least one component of Architecture Components.
+Obs: Use at least one component of iOS > 11.
 
 **Player**
-- Implement a player that plays any video streaming with DASH extension. 
+- Implement a player that plays any video streaming with HLS extension. 
+Hls http://sample.vodobox.com/planete_interdite/planete_interdite_alternate.m3u8
 
 **Quality**
 - Apply Lint, Sonar and Test Coverage.
