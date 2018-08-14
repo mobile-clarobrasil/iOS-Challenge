@@ -15,6 +15,7 @@ Please, create a branch for each part.
 ##### WARNING !!!
 ###### The objective isn't to complete everything, is just to use your best to reach as long as you can.
 ###### You can use everything that you want, API, Library, Architecture, Patterns and so-on.
+#### No reuse or copying of existing codes is allowed. Please create a new repository and start the project from scratch.
 
 ----
 
